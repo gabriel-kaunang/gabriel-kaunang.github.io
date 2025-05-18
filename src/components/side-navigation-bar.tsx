@@ -215,7 +215,7 @@ export function SideNavbar() {
         </div>
 
         {/* External Links */}
-        <div className="flex flex-col gap-2 items-start">
+        <div className="flex flex-col gap-1 items-start">
           {externalLinks.map((item, index) => (
             <a
               href={item.href}
