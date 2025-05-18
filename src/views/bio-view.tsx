@@ -28,9 +28,10 @@ export default function BioView() {
               Prof. Yanjing Li
             </Link>
           </span>
-          . My current research revolves around diagnosis of silent errors in
-          deep-learning accelerators alongside assessing resilience of DNN
-          workloads on accelerators.
+          . Prior to that, I received a Bachelor’s Degree in Computer Science 
+	  from Universitas Gadjah Mada (UGM), Indonesia. My current research 
+	  revolves around diagnosis of silent errors in deep-learning accelerators 
+	  alongside assessing accelerator resilience on DNN inference workloads.
         </p>
       </div>
     </div>
