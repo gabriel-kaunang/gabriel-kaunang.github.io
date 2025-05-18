@@ -176,7 +176,7 @@ export function SideNavbar() {
               : "-translate-x-full"
           }
           lg:relative lg:translate-x-0 lg:z-0
-          p-5 lg:p-20 lg:pr-0 flex flex-col gap-20 h-full lg:w-lg
+          p-5 lg:p-20 lg:pr-0 flex flex-col gap-8 h-full lg:w-lg
           ${isMobile ? "pt-64" : ""}
       `}
       >
