@@ -189,7 +189,7 @@ export function SideNavbar() {
             className="rounded-full w-48 h-auto"
           />
           <div>
-            <p className="text-4xl font-bold mb-6">Gabriel Kaunang</p>
+            <p className="text-4xl font-bold mb-3">Gabriel Kaunang</p>
             <div className="flex flex-col text-lg/5 font-medium">
               <p>Ph.D. Student</p>
               <p>University of Chicago</p>
