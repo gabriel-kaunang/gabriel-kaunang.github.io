@@ -8,7 +8,7 @@ export default function PublicationsView() {
       title: "Silent Data Corruption: Advancing Detection, Diagnosis, and Mitigation Strategies",
       description:
         "Peter Domanski*, Mukarram Ali Faridi*, Gabriel Kaunang* (co-first author), Wilson Pradeep, Adit Singh, Muhammad Alfian Amrizal, Yanjing Li, Farshad Firouzi, and Krishnendu Chakrabarty",
-      conference: "The 43rd IEEE VLSI Test Symposium (VTS'2025)",
+      conference: "The 43rd IEEE VLSI Test Symposium (VTS'25)",
       href: "https://tttc-vts.org/public_html/new/2025/",
     },
     {
