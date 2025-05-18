@@ -198,7 +198,7 @@ export function SideNavbar() {
         </div>
 
         {/* Navigation */}
-        <div className="flex flex-col gap-2 items-start">
+        <div className="flex flex-col gap-1 items-start">
           {navItems.map((item) => (
             <button
               key={item.id}
