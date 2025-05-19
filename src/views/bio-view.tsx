@@ -16,7 +16,7 @@ export default function BioView() {
       />
 
       {/* Header */}
-      <p className="text-lg lg:text-4xl font-bold hidden lg:block">Bio</p>
+      {/*<p className="text-lg lg:text-4xl font-bold hidden lg:block">Bio</p>*/}
 
       {/* Bio */}
       <div className="flex flex-col gap-4 text-sm lg:gap-4 font-medium lg:text-lg lg:text-justify">
