@@ -29,9 +29,12 @@ export default function BioView() {
             </Link>
           </span>
           . Prior to that, I received a Bachelor’s Degree in Computer Science 
-	  from Universitas Gadjah Mada (UGM), Indonesia. My current research 
-	  revolves around diagnosis of silent errors in deep-learning accelerators 
-	  alongside assessing accelerator resilience on DNN inference workloads.
+	  from Universitas Gadjah Mada (UGM), Indonesia.         
+	</p>
+	<p>
+	  My current research revolves around diagnosis of silent errors in 
+	  deep-learning accelerators alongside assessing accelerator resilience 
+	  on DNN inference workloads.
         </p>
       </div>
     </div>
