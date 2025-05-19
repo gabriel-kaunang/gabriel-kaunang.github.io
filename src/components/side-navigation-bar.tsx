@@ -108,7 +108,7 @@ export function SideNavbar() {
 
   const navItems = [
     {
-      name: "Bio",
+      name: "About",
       id: "bio",
     },
     {
