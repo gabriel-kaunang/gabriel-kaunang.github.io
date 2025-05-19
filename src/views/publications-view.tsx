@@ -2,20 +2,23 @@
 
 import { PublicationLink } from "@/components/publication-link";
 
-export default function PublicationsView() {
+export function PublicationsView() {
   const publications = [
     {
-      title: "Silent Data Corruption: Advancing Detection, Diagnosis, and Mitigation Strategies",
+      title:
+        "Silent Data Corruption: Advancing Detection, Diagnosis, and Mitigation Strategies",
       description:
         "Peter Domanski*, Mukarram Ali Faridi*, Gabriel Kaunang* (co-first author), Wilson Pradeep, Adit Singh, Muhammad Alfian Amrizal, Yanjing Li, Farshad Firouzi, and Krishnendu Chakrabarty",
       conference: "The 43rd IEEE VLSI Test Symposium (VTS'25)",
       href: "https://tttc-vts.org/public_html/new/2025/",
     },
     {
-      title: "An Advantage Actor-Critic Deep Reinforcement Learning Method for Power Management in HPC Systems",
+      title:
+        "An Advantage Actor-Critic Deep Reinforcement Learning Method for Power Management in HPC Systems",
       description:
         "Fitra Rahmani Khasyah, Kadek Gemilang Santiyuda, Gabriel Kaunang, Faizal Makhrus, Muhammad Alfian Amrizal, and Hiroyuki Takizawa",
-      conference: "The 23rd International Conference on Parallel and Distributed Computing, Applications and Technologies (PDCAT'22)",
+      conference:
+        "The 23rd International Conference on Parallel and Distributed Computing, Applications and Technologies (PDCAT'22)",
       href: "https://link.springer.com/chapter/10.1007/978-3-031-29927-8_8",
     },
   ];

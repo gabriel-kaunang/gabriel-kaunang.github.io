@@ -1,7 +1,7 @@
 import BioView from "@/views/bio-view";
-import ExperienceView from "@/views/experience-view";
+import { EducationView } from "@/views/education-view";
 import { NewsView } from "@/views/news-view";
-import PublicationsView from "@/views/publications-view";
+import { PublicationsView } from "@/views/publications-view";
 
 export default function Home() {
   return (
@@ -12,6 +12,9 @@ export default function Home() {
       {/* <section id="experience" className="scroll-mt-20">
         <ExperienceView />
       </section> */}
+      <section id="education" className="scroll-mt-20">
+        <EducationView />
+      </section>
       <section id="news" className="scroll-mt-20">
         <NewsView />
       </section>

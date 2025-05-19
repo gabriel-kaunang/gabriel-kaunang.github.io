@@ -31,7 +31,7 @@ export function SideNavbar() {
 
   useEffect(() => {
     const handleScroll = () => {
-      const sections = ["bio", "news", "publications"];
+      const sections = ["bio", "education", "news", "publications"];
       const scrollPosition = window.scrollY + 100; // Fixed offset for header
       const viewportHeight = window.innerHeight;
 
