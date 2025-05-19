@@ -32,7 +32,7 @@ export default function BioView() {
 	  from Universitas Gadjah Mada (UGM), Indonesia.         
 	</p>
 	<p>
-	  My current research revolves around diagnosis of silent errors in 
+	  My current research involves diagnosis of silent errors in 
 	  deep-learning accelerators alongside assessing accelerator resilience 
 	  on DNN inference workloads.
         </p>
