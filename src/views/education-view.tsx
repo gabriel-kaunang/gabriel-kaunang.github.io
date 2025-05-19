@@ -60,7 +60,7 @@ export function EducationView() {
         {education.map((item, index) => (
           <div
             key={index}
-            className="flex flex-row gap-2 lg:gap-4 items-center"
+            className="flex flex-row-reverse justify-between gap-2 lg:gap-4 items-center"
           >
             <Image
               src={item.imageSrc}
