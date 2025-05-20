@@ -22,14 +22,9 @@ export default function BioView() {
       <div className="flex flex-col gap-4 text-sm lg:gap-4 font-medium lg:text-lg lg:text-justify">
         <p>
           I am a first year Computer Science Ph.D. student at the University of
-          Chicago, currently advised by{" "}
-          <span className="text-blue-500 font-bold hover:underline">
-            <Link href="https://people.cs.uchicago.edu/~yanjingl/">
-              Prof. Yanjing Li
-            </Link>
-          </span>
-          . Prior to that, I received a Bachelor’s Degree in Computer Science 
-	  from Universitas Gadjah Mada (UGM), Indonesia.         
+          Chicago, currently advised by Prof. Yanjing Li. Prior to that, I 
+	  received a Bachelor’s Degree in Computer Science from Universitas Gadjah 
+	  Mada (UGM), Indonesia.         
 	</p>
 	<p>
 	  My current research involves diagnosis of silent errors in 
