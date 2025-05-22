@@ -48,7 +48,7 @@ export function EducationView() {
       date: "2022",
       description: (
         <p>
-	  Full Scholarship from Temasek Foundation
+	  Full-Ride Scholarship from Temasek Foundation
         </p>
       ),
       imageSrc: NanyangImage.src,
@@ -60,7 +60,7 @@ export function EducationView() {
       date: "2022",
       description: (
         <p>
-	  Full Scholarship from Temasek Foundation
+	  Full-Ride Scholarship from Temasek Foundation
         </p>
       ),
       imageSrc: MahidolImage.src,
