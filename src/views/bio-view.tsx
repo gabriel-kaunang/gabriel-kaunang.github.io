@@ -24,7 +24,7 @@ export default function BioView() {
           I am a first year Computer Science Ph.D. student at the University of
           Chicago, currently advised by Prof. Yanjing Li. Prior to that, I 
 	  received a Bachelor’s Degree in Computer Science from Universitas Gadjah 
-	  Mada (UGM), Indonesia.         
+	  Mada, Indonesia.         
 	</p>
 	<p>
 	  My current research involves diagnosis of silent errors in 

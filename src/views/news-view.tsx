@@ -4,7 +4,7 @@ export function NewsView() {
   const news = [
     {
       date: "2025/2",
-      article: <>Gave a talk on our <span className="font-bold">Special Sessions Paper on Silent Data Corruption</span> at VTS'25!</>,
+      article: <>Presented our <span className="font-bold">Special Sessions Paper on Silent Data Corruption</span> at VTS'25!</>,
     },
     {
       date: "2024/9",

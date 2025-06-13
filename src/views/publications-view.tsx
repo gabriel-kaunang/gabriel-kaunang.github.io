@@ -10,7 +10,7 @@ export function PublicationsView() {
       description:
         "Peter Domanski*, Mukarram Ali Faridi*, Gabriel Kaunang* (co-first author), Wilson Pradeep, Adit Singh, Muhammad Alfian Amrizal, Yanjing Li, Farshad Firouzi, and Krishnendu Chakrabarty",
       conference: "The 43rd IEEE VLSI Test Symposium (VTS'25)",
-      href: "https://tttc-vts.org/public_html/new/2025/",
+      href: "https://ieeexplore.ieee.org/document/11022867",
     },
     {
       title:
