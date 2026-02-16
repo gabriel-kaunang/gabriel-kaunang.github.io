@@ -192,6 +192,7 @@ export function SideNavbar() {
             <p className="text-4xl font-bold mb-3">Gabriel Kaunang</p>
             <div className="flex flex-col text-lg/5 font-medium">
               <p>Ph.D. Student</p>
+              <p>gabs 'at' uchicago '.' edu</p>
               <p>University of Chicago</p>
             </div>
           </div>

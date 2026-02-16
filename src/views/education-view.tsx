@@ -21,8 +21,8 @@ export function EducationView() {
         <p>
           Advisor:{" "}
           <span className="text-blue-500 font-bold hover:underline">
-            <Link href="https://people.cs.uchicago.edu/~yanjingl/">
-              Prof. Yanjing Li
+            <Link href="https://ylab-research.github.io/">
+              Yanjing Li
             </Link>
           </span>
         </p>
