@@ -4,7 +4,7 @@ export function NewsView() {
   const news = [
     {
       date: "2026/2",
-      article: <>Defended my master’s thesis on silent data corruption in quantized inference!</>,
+      article: <>Defended my master’s thesis on SDC effects in AI accelerators!</>,
     },
     {
       date: "2025/2",
