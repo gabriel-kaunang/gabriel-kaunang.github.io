@@ -4,7 +4,7 @@ export function NewsView() {
   const news = [
     {
       date: "2026/2",
-      article: <>Successfully defended my master’s thesis on the effects of transient hardware failures in quantized inference workloads!</>,
+      article: <>Defended my master’s thesis on transient hardware failures in quantized inference workloads!</>,
     },
     {
       date: "2025/2",
