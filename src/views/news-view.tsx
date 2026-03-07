@@ -3,6 +3,10 @@
 export function NewsView() {
   const news = [
     {
+      date: "2026/2",
+      article: <>Successfully defended my master’s thesis on the effects of transient hardware failures in quantized inference workloads!</>,
+    },
+    {
       date: "2025/2",
       article: <>Presented our <span className="font-bold">Special Sessions Paper on Silent Data Corruption</span> at VTS'25!</>,
     },
