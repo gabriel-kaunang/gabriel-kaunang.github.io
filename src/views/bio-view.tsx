@@ -21,8 +21,8 @@ export default function BioView() {
       {/* Bio */}
       <div className="flex flex-col gap-4 text-sm lg:gap-4 font-medium lg:text-lg lg:text-justify">
         <p>
-          I am a second year Computer Science Ph.D. student at the University of
-          Chicago, currently advised by Yanjing Li. Prior to that, I 
+          I am a third year Computer Science Ph.D. student at the University of
+          Chicago, currently co-advised by Yanjing Li and Haryadi Gunawi. Prior to that, I 
 	  received a Bachelor’s Degree in Computer Science from Universitas Gadjah 
 	  Mada, Indonesia.         
 	</p>
