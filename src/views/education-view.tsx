@@ -25,12 +25,6 @@ export function EducationView() {
               Yanjing Li
             </Link>
           </span>
-	      {" "}and{" "}
-	  <span className="text-blue-500 font-bold hover:underline">
-	    <Link href="https://people.cs.uchicago.edu/~haryadi/">
-	      Haryadi Gunawi
-	    </Link>
-	  </span>
         </p>
       ),
       imageSrc: UChicagoImage.src,
