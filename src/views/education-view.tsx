@@ -19,7 +19,7 @@ export function EducationView() {
       // Descriptions are Optional
       description: (
         <p>
-          Co-advised by:{" "}
+          Advised by:{" "}
           <span className="text-blue-500 font-bold hover:underline">
             <Link href="https://ylab-research.github.io/">
               Yanjing Li
